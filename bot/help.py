@@ -1,4 +1,5 @@
 import logging
+from telebot import types
 
 logger = logging.getLogger(__name__)
 
